@@ -1,0 +1,26 @@
+div {
+    background-color: red;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+  }
+
+.ul-ol {
+  background-color: blue;
+  color: white;
+  font-size: 18px;
+  text-align: left;
+
+}
+
+h2 {
+  background-color: silver;
+  color:black;
+}
+
+p {
+  background-color: green;
+  color: white;
+  font-size: 18px;
+}
